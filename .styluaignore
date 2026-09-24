@@ -1,0 +1,4 @@
+.rocks/
+var/
+.tmp_mutant.*
+*.um.backup.*

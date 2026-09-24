@@ -1,0 +1,12 @@
+# Форматирование Lua. Значения подобраны под конвенции кода Tarantool:
+# одинарные кавычки, отступ в четыре пробела, поля 120 символов.
+column_width = 120
+line_endings = "Unix"
+indent_type = "Spaces"
+indent_width = 4
+quote_style = "AutoPreferSingle"
+call_parentheses = "Always"
+collapse_simple_statement = "Never"
+
+[sort_requires]
+enabled = false
